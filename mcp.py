@@ -1,7 +1,6 @@
 from mcp.server.fastmcp import FastMCP
 import requests
 
-# auto o cong 8000.
 mcp = FastMCP(
     name="mcp-server",
 )
